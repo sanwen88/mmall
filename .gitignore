@@ -14,10 +14,12 @@ target/
 .settings/
 .project
 .classpath
+.metadata
 
 # idea ignore
 .idea/
 /idea/
+/out/
 *.ipr
 *.iml
 *.iws
